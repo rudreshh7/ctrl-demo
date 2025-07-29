@@ -42,7 +42,7 @@ const CtrlApp = () => {
             <button
               onClick={() => {
                 window.open(
-                  "https://drive.usercontent.google.com/u/0/uc?id=1q6-klthOFvTWpnlvRbtorKF1S7ZphdFX&export=download",
+                  "https://drive.usercontent.google.com/download?id=1q6-klthOFvTWpnlvRbtorKF1S7ZphdFX&export=download&authuser=0",
                   "_blank"
                 );
               }}
